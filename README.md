@@ -4,7 +4,7 @@
 
 [To see working of app](https://sandeshtiwariapp.apps.pcfdev.in/)
 
-**Category:** Python Flask
+**Category:** _Python Flask_
 
 **Skills Required:**
 `HTML,Bootstrap,MySQL,Python-Flask,Cloud Foundry,Tanzu Application Service,REST API's`
