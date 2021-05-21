@@ -1,18 +1,18 @@
-Customer Care Registry
+# Customer Care Registry
 
-To see app demo video: https://youtu.be/Xqn3OB5a9M4
+[To see app demo video](https://youtu.be/Xqn3OB5a9M4)
 
-To see working of app: https://sandeshtiwariapp.apps.pcfdev.in/
+[To see working of app](https://sandeshtiwariapp.apps.pcfdev.in/)
 
-Category: Python Flask
+**Category:** Python Flask
 
-Skills Required:
-HTML,Bootstrap,MySQL,Python-Flask,Cloud Foundry,Tanzu Application Service,REST API's
+**Skills Required:**
+`HTML,Bootstrap,MySQL,Python-Flask,Cloud Foundry,Tanzu Application Service,REST API's`
 
-Project Description:
+## Project Description:
 
-Introduction :
-
+### Introduction :
+```
 This Application has been developed to help the customer in processing their complaints. 
 The customers can raise the ticket with a detailed description of the issue. 
 An Agent will be assigned to the Customer to solve the problem. 
@@ -24,8 +24,9 @@ The main roles and responsibilities of the admin is to take care of the whole pr
 Starting from Admin login followed by the agent creation and assigning the customers complaints. 
 Finally, He will be able to track the work assigned to the agent and notification will be sent to the customer.
 
-User: 
+User:
 They can register for an account. 
 After the login, they can create a complaint with a description of the problem they are facing. 
 Each user will be assigned an agent. 
 They can view the status of their complaint.
+```
